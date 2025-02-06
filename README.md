@@ -39,10 +39,9 @@ This repository contains a comprehensive project on analyzing energy consumption
 │   ├── Energy_consumption_transformed.csv  # Transformed dataset
 │
 ├── etl_pipeline_energy_consumption.py  # ETL pipeline Python script
-├── database_modeling.sql            # SQL script for database schema and setup
-├── assets/                          # Images for documentation
-│   ├── database_schema.png          # Database model diagram
-│   ├── dashboard_energy_consumption.png  # Power BI dashboard screenshot
+├── database_modeling.sql            # SQL script for database schema and setup                        
+├── database_schema.png          # Database model diagram
+├── dashboard_energy_consumption.png  # Power BI dashboard screenshot
 │
 ├── README.md                        # Project documentation
 ```
